@@ -1,6 +1,6 @@
 ---
-title: Example Fox Blog
+title: My Sample Website
 ---
 
+Include blogs and resume and stuf...
 How interesting...
-
