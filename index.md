@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Example Fox Blog
 ---
+
+How interesting...
 
